@@ -1,14 +1,14 @@
 Hi everyone and welcome! if you are a Tizen Studio user in Windows SO and would like to use it on MacOS as well to have a backup in case your Windows has a problem, here is a 14-step tutorial on how to fix a Tizen Studio bug that is happening in some previous versions of MacOS.
 
-Screenshot:
+Screenshot (Copy and paste the link in a new tab):
 [https://drive.google.com/file/d/1NoyTS6KKU9IQyHwVaT2TeT8euikdIfhz/view?usp=sharing](url)
 
 Link to the bug discussion on the official Samsung Developers forum> https://forum.developer.samsung.com/t/tizen-studio-problem-on-macos-big-sur/9410?page=2
 
  This error appeared on my MacOS Monterrey 12.7.5 using the latest version of Tizen Studio 5.6 and I will leave the steps (How I solved it) below for anyone who faces this in the future:
 
-(The JVM shared library “/users/username/Documents/Tizen Studio/jdk/Contents/Home/bin/…/jre/lib/server/libjvm.dylib” does not contain the
-JNI_CreateJavaVM symbol.)
+🐛 (The JVM shared library “/users/username/Documents/Tizen Studio/jdk/Contents/Home/bin/…/jre/lib/server/libjvm.dylib” does not contain the
+JNI_CreateJavaVM symbol.) 🐛
 
 1- Download the latest version of Tizen Studio from the official link https://docs.tizen.org/application/vscode-ext/web/#develop-applications
 2. Launch the Tizen Studio installer > When asked to define the workspace destination folder, create a new folder in Documents by clicking on the three dots in the installer and install in this new folder
