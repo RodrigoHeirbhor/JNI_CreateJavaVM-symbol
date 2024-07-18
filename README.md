@@ -1,4 +1,4 @@
-Hi everyone and welcome! if you are a Tizen Studio user in Windows SO and would like to use it on MacOS as well to have a backup in case your Windows has a problem, here is a 14-step tutorial on how to fix a Tizen Studio bug that is happening in some versions previous versions of MacOS.
+Hi everyone and welcome! if you are a Tizen Studio user in Windows SO and would like to use it on MacOS as well to have a backup in case your Windows has a problem, here is a 14-step tutorial on how to fix a Tizen Studio bug that is happening in some previous versions of MacOS.
 
 Screenshot:
 [https://drive.google.com/file/d/1NoyTS6KKU9IQyHwVaT2TeT8euikdIfhz/view?usp=sharing](url)
